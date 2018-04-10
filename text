@@ -1,0 +1,77 @@
+jquery reorderable list gedgiig ashiglaaraa
+to do listdee
+
+.remove gej jquearyg ashiglana
+
+w3 deer creat HTML, append buyu add gedgiig ashiglan listdee nemne
+$(mydad).append("<button></button>")
+
+
+message.trim - gedeg n takes out white space.
+jishee n, var str = " hello ";
+trim() = "hello" bolgoj spaciig avna;
+
+confirm() function asks user to movr forward with action
+
+march 16 trent regularExp deer tustei zuil hiilee!!!
+
+
+JAVA AFTER JQUERY IN SCRIPT!!!!!!!
+
+.......
+div class="container">
+    <input type="text" class="searchbox" placeholder="type recipes">
+    </div>
+
+    ene n box dotor type recipes gesen bichig gargana
+    ...................
+.searchbox{
+margin-bottom: 30px;
+
+}
+
+
+.recipebox{
+    border: 1px solid #dadfea;
+    padding: 15px;
+    margin-bottom: 15px; - ENE N HOORONDOO ZAI UUSGENE
+
+    ...........
+
+- add children - append
+
+-add item inside list - append item inside list
+
+- content editable olon hun ashiglasan.
+
+ucobra,com/wordmap
+
+div class=editbox
+
+
+<div class="divname" contenteditable = "true">
+
+.............
+
+searchbx.keyup.js file-iin tuhaid gevel,
+
+................
+
+http://food.uxcobra.com/ - endees trentiin kodiig harj boloh yum bna
+
+3/16nd trentiin zaasan regExpressiong oruulah. eg.var patt = /Halloween/i
+
+
+
+ene doorh timeriig tavibal zugeer bh:
+
+<div id="currenttime">
+
+var timer = setInterval("tick()", 1000);
+
+function tick(){
+    var d = new Date();
+    var t = d.toLocaleDateString();
+    document.getElementById("currenttime").innerHTML = t;
+}
+

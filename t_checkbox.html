@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+    <script src="t_action.js" defer></script>
+    <link rel="stylesheet" href="t_checkbox.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+<div class="container">
+    <div class="row">
+        <div class="rowleft">
+            <div class="iconspot fa"></div>
+            <div class="label">Feed the Dog</div>
+        </div>
+        <div class="rowright">
+            <button onclick="markComplete(this)">Mark Complete</button>
+            <div class="fa fa-trash" onclick="removeRow(this)"></div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="rowleft">
+            <div class="iconspot fa"></div>
+            <div class="label">Buy Some Milk</div>
+        </div>
+        <div class="rowright">
+            <button onclick="markComplete(this)">Mark Complete</button>
+            <div class="fa fa-trash" onclick="removeRow(this)"></div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="rowleft">
+            <div class="iconspot fa"></div>
+            <div class="label">Eat some pizza</div>
+        </div>
+        <div class="rowright">
+            <button onclick="markComplete(this)">Mark Complete</button>
+            <div class="fa fa-trash" onclick="removeRow(this)"></div>
+        </div>
+    </div>
+</div>
+</body>
+</html>
