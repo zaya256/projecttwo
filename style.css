@@ -41,7 +41,7 @@ body {
 .container .main {
   height: auto;
   margin: 25px auto;
-  padding: 20px;
+  padding: 25px;
 }
 .container .main .header {
   display: flex;
